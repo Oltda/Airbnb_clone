@@ -26,3 +26,8 @@ In order to use it, paste the links bellow into your index.html
      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">  
      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     
+or run npm install
+
+          ```bash
+          npm install materialize-css@next
+          ```
