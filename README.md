@@ -28,6 +28,6 @@ In order to use it, paste the links bellow into your index.html
     
 or run npm install
 
-          ```bash
+          
           npm install materialize-css@next
-          ```
+          
